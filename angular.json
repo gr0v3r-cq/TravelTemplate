@@ -53,11 +53,14 @@
               }
             ],
             "scripts": [
+              // {
+              //   "input": "node_modules/chart.js/dist/Chart.js"
+              // },
+              // {
+              //   "input": "node_modules/hammerjs/hammer.min.js"
+              // },
               {
-                "input": "node_modules/chart.js/dist/Chart.js"
-              },
-              {
-                "input": "node_modules/hammerjs/hammer.min.js"
+                "input": "./src/assets/js/main.js"
               }
             ]
           },
